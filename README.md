@@ -7,4 +7,4 @@ Uh, i mean its just a Krunker Client
 |-|-|
 | Windows | `exe` |
 
-<p>**HUGE**<\p> credits to https://github.com/idkr-client/idkr for the Source Code!
+**HUGE** credits to https://github.com/idkr-client/idkr for the Source Code!
